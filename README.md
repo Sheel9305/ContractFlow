@@ -24,6 +24,7 @@ A full-stack web application for managing contracts, associated points, and invo
 
 ## 📁 Project Structure
 
+```bash
 /Backend/        # Flask API backend
 /src/            # React frontend with Redux slices
 /cypress/        # Cypress E2E test cases
